@@ -9,6 +9,8 @@ Folders:
   * `00_FEM`: Pazy wing MSC Nastran GFEM (original and with stiffened wingtip)
   * `01_ReferenceAxis`: Beam node coordinates (MSC Nastran default reference frame)  
   * `02_BeamMassModel`: Beam mass model for reference axis (MSC Nastran default reference frame)
+
+Work in progress: beam stiffness model
   
 Notes:
 

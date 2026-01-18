@@ -12,10 +12,6 @@ Folders:
 
 Work in progress: beam stiffness model
   
-Notes:
-
-  * The inertia tensors for the beam nodes list the xx, yy, and zz diagonal elements first, followed by the xy, xz, and yz off-diagonal elements (with sign embedded, hence the listed numbers are directly the inertia tensor entries)
-
 ## Contact
 
 Cristina Riso (criso@gatech.edu)

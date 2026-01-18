@@ -6,7 +6,8 @@ Models and properties for the Pazy wing benchmark case with 10-deg and 20-deg sw
 
 Folders:
 
-  * `00_FEM`: Pazy wing MSC Nastran GFEM (original and with stiffened wingtip)  
+  * `00_FEM`: Pazy wing MSC Nastran GFEM (original and with stiffened wingtip)
+  * `01_ReferenceAxis`: Reference axis grid coordinates (MSC Nastran default reference frame)  
 
 ## Contact
 
